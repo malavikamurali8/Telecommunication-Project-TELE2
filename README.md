@@ -1,2 +1,4 @@
-# TELE2
-Shared Project - Maintainance activities/ alert generation in Kibana ELK
+Shared Project - Maintainance activities/ alert generation in Kibana ELK - 
+Created scheduled downtime for Sweden based Tele2 servers and their respective alarms in OP5 during planned maintenance and patch activities. This was requested by Support groups and System Owners in charge of Windows, Oracle, Linux operating systems from NAC web with proper CRQ (change request) raised and approved. Also followed by creating a reference service request (SR) in BMC remedy ITSM and lastly, alert creation in alarm manager.
+Had to lead my Team and extended support was given to set up the Kibana dashboard during automation.  Coordinated with System Owners and Application team to create dashboard alarms, such as critical (P1, P2) non-critical (P3, P4) with High, Medium and Low priority levels. Resolved the application database errors and disk space alerts, performance monitors (CPU, Memory) above 85% threshold.
+
